@@ -1,2 +1,1 @@
-"# Graphics" 
-"# Graphics" 
+# Homework 1
